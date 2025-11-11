@@ -1,0 +1,10 @@
+
+int main() {
+using namespace std;
+int x=4;
+int y=-5;
+int g=-6;
+cout<<(x>0&&y>0||g>0)<<endl;
+cout<<" non positive"<<endl;
+    return 0;
+}
