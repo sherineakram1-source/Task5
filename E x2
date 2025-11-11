@@ -1,0 +1,12 @@
+) {
+  using namespace std;
+  cout<<"please Enter two Numbers "<<endl;
+  int a,b;
+  cin>>a>>b;
+if(a=b%10==0)
+cout<<"even"<<endl;
+else 
+cout<<"odd"<<endl;
+
+    return 0;
+}
